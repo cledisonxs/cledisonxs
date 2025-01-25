@@ -29,3 +29,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/cledisonxs/cledisonxs/output/snake.svg" alt="Snake animation" />
+
+###
